@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ADTs/ADTs.vcxproj" Id="5faf541e-c1ab-4a11-af6b-c7dfb7ece7d7" />
+</Solution>

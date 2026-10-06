@@ -16,12 +16,14 @@ bool LinkedList::Insert(int value)
 
 bool LinkedList::InsertEnd(int value)
 {
-    if (IsEmpty()) {
+    if (IsEmpty())
+    {
         Node* newNode = new Node(value);
         this->pHead = newNode;
         return true;
     }
-    else {
+    else
+    {
         Node* current = this->pHead;
         while (current->pNext != nullptr) {
             current = current->pNext;
@@ -84,7 +86,27 @@ void LinkedList::Print()
     std::cout << std::endl;
 }
 
+// I know this isn't the for loop you asked for, but I think it works better? Its a function that clears everything without caring about
+// length or any other things a for loop might need.
+void LinkedList::ClearList()
+{
+    while (!this->IsEmpty())
+    {
+        //std::cout << "Deleted " << pHead->data << std::endl;
+        this->Delete(pHead->data);
+    }
+    
+}
+
 void LinkedList::Invert()
 {
+    LinkedList inverted;
+    Node* current = this->pHead;
 
+    while (current != nullptr)
+    {
+        inverted.Insert(current->data);
+        current = current->pNext;
+    }
+    this->pHead = inverted.pHead;
 }

@@ -9,6 +9,7 @@ public:
 	bool InsertEnd(int value);
 	bool Find(int value);
 	bool Delete(int value);
+	void ClearList();
 	void Print();
 	void Invert();
 

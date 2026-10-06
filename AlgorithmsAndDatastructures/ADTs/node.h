@@ -3,7 +3,7 @@ class Node
 {
 public:
 	int data;
-	Node* pNext; //Pointer Next
+	Node* pNext;
 
 	Node(int data) {
 		this->data = data;

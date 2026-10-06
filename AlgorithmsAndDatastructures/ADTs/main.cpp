@@ -8,8 +8,7 @@ int main()
     LinkedList list;
     for (int i = 1; i < 100; i++)
     {
-        //InsertEnd to make it ordered because it bothers me if it isnt.
-        list.InsertEnd(i);
+        list.Insert(i);
     }
     std::cout << " Done!\n";
     list.Print();
@@ -28,12 +27,30 @@ int main()
     std::cout << "\n\n";
     std::cout << "Deleting the whole list... ";
 
-    int i = 0;
-    while (!list.IsEmpty())
-    {
-		list.Delete(i);
-        i++;
-    }
+	list.ClearList();
     std::cout << (list.IsEmpty() ? "Success!\n" : "Failure.\n");
+    std::cout << "\nCurrent list:\n";
+    list.Print();
+    list.Invert(); // Not debugged but here t prove it does nothing. It doesnt give errors, doesnt read a failure it just reverses nothing to nothing
+
+
+    std::cout << "\nCreating a list of 1-10 with InsertEnd... ";
+    for (int i = 1; i < 11; i++)
+    {
+        //InsertEnd to make it ordered because it bothers me if it isnt.
+        list.InsertEnd(i);
+    }
+    std::cout << (!list.IsEmpty() ? "Success!\n" : "Failure.\n");
+
+    std::cout << "\nCurrent list:\n";
+    list.Print();
+
+    std::cout << "\nInverting list... ";
+    list.Invert();
+    std::cout << "Done!\n";
+
+    std::cout << "\nCurrent list:\n";
+    list.Print();
+
     return 0;
 }

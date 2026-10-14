@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|solutionrelative:ADTs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|solutionrelative:ADTs\\linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|solutionrelative:ADTs\\linkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5FAF541E-C1AB-4A11-AF6B-C7DFB7ECE7D7}|ADTs\\ADTs.vcxproj|solutionrelative:ADTs\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6BA71FB-0BDC-42C5-8A67-CA35B6152E30}|Stack\\Stack.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6BA71FB-0BDC-42C5-8A67-CA35B6152E30}|Stack\\Stack.vcxproj|solutionrelative:Stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "node.h",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\node.h",
-              "RelativeDocumentMoniker": "ADTs\\node.h",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\node.h",
-              "RelativeToolTip": "ADTs\\node.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-01T07:26:32.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "linkedlist.h",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.h",
-              "RelativeDocumentMoniker": "ADTs\\linkedlist.h",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.h",
-              "RelativeToolTip": "ADTs\\linkedlist.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-01T07:31:27.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "linkedlist.cpp",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.cpp",
-              "RelativeDocumentMoniker": "ADTs\\linkedlist.cpp",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\linkedlist.cpp",
-              "RelativeToolTip": "ADTs\\linkedlist.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-01T07:02:40.849Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\main.cpp",
-              "RelativeDocumentMoniker": "ADTs\\main.cpp",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\ADTs\\main.cpp",
-              "RelativeToolTip": "ADTs\\main.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Stack\\main.cpp",
+              "RelativeDocumentMoniker": "Stack\\main.cpp",
+              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Stack\\main.cpp",
+              "RelativeToolTip": "Stack\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-01T07:40:15.614Z",
+              "WhenOpened": "2026-10-14T07:32:04.449Z",
               "EditorCaption": ""
             }
           ]

@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="ADTs/ADTs.vcxproj" Id="5faf541e-c1ab-4a11-af6b-c7dfb7ece7d7" />
+  <Project Path="BinaryTree/BinaryTree.vcxproj" Id="7d860297-7571-493f-89ae-4acfd4cf4928" />
   <Project Path="Stack/Stack.vcxproj" Id="f6ba71fb-0bdc-42c5-8a67-ca35b6152e30" />
 </Solution>

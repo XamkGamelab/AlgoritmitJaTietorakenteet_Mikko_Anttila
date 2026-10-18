@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\mikko\\downloads\\algorithmsanddatastructures\\adts\\linkedlist.cpp",
+        "Source": "c:\\users\\mikko\\documents\\algoritmitjatietorakenteet_mikko_anttila\\algorithmsanddatastructures\\adts\\linkedlist.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\mikko\\downloads\\algorithmsanddatastructures\\adts\\linkedlist.h",
-            "c:\\users\\mikko\\downloads\\algorithmsanddatastructures\\adts\\node.h",
+            "c:\\users\\mikko\\documents\\algoritmitjatietorakenteet_mikko_anttila\\algorithmsanddatastructures\\adts\\linkedlist.h",
+            "c:\\users\\mikko\\documents\\algoritmitjatietorakenteet_mikko_anttila\\algorithmsanddatastructures\\adts\\node.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",

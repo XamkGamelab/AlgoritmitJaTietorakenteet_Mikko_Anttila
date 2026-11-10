@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|solutionrelative:Heap\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\binarytree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|solutionrelative:Heap\\heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\binarytree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D860297-7571-493F-89AE-4ACFD4CF4928}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34CBB1D7-5F5D-44EC-8209-DF0F9CEC27F2}|Heap\\Heap.vcxproj|solutionrelative:Heap\\heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 643,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "heap.cpp",
+              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.cpp",
+              "RelativeDocumentMoniker": "Heap\\heap.cpp",
+              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.cpp",
+              "RelativeToolTip": "Heap\\heap.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-05T08:44:51.063Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "heap.h",
+              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.h",
+              "RelativeDocumentMoniker": "Heap\\heap.h",
+              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\heap.h",
+              "RelativeToolTip": "Heap\\heap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-05T08:41:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\main.cpp",
-              "RelativeDocumentMoniker": "BinaryTree\\main.cpp",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\main.cpp",
-              "RelativeToolTip": "BinaryTree\\main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBgAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\main.cpp",
+              "RelativeDocumentMoniker": "Heap\\main.cpp",
+              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\Heap\\main.cpp",
+              "RelativeToolTip": "Heap\\main.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-15T07:47:58.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "binarytree.cpp",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.cpp",
-              "RelativeDocumentMoniker": "BinaryTree\\binarytree.cpp",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.cpp",
-              "RelativeToolTip": "BinaryTree\\binarytree.cpp",
-              "ViewState": "AgIAADIAAAAAAAAAAAAWwD8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-15T07:48:10.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "binarytree.h",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.h",
-              "RelativeDocumentMoniker": "BinaryTree\\binarytree.h",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\binarytree.h",
-              "RelativeToolTip": "BinaryTree\\binarytree.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-15T07:48:34.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "node.h",
-              "DocumentMoniker": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\node.h",
-              "RelativeDocumentMoniker": "BinaryTree\\node.h",
-              "ToolTip": "C:\\Users\\mikko\\Documents\\AlgoritmitJaTietorakenteet_Mikko_Anttila\\AlgorithmsAndDatastructures\\BinaryTree\\node.h",
-              "RelativeToolTip": "BinaryTree\\node.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-15T07:48:44.158Z",
+              "WhenOpened": "2026-11-05T08:40:42.135Z",
               "EditorCaption": ""
             }
           ]

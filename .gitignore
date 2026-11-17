@@ -67,3 +67,4 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+AlgorithmsAndDatastructures/.vs/AlgorithmsAndDatastructures.slnx/v18/ipch/AutoPCH/386af98647adfcc7/MAIN.ipch
